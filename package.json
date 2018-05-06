@@ -1,0 +1,26 @@
+{
+  "name": "read-argv",
+  "version": "1.0.0",
+  "description": "read the process.argv as an object",
+  "main": "index.js",
+  "unpkg": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriancmiranda/read-argv.git"
+  },
+  "keywords": ["process", "argv"],
+  "author": "Adrian C. Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriancmiranda/read-argv/issues"
+  },
+  "homepage": "https://github.com/adriancmiranda/read-argv#readme"
+}
